@@ -1,16 +1,17 @@
-## Hi there 👋
+# TETO-IS-KAWAI MAIN
 
-<!--
-**TETO-IS-KAWAI/TETO-IS-KAWAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## WELCOME
+**School** | **S**ejong **A**cademy of **S**cience and **A**rts
 
-Here are some ideas to get you started:
+**Major** | *Physics* / *Informatics* / *Earth Science*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## STATS
+![SOLVED](https://boj.profilecard.kr/info?username=joon_gyu&bgc1=0E0C09&bgc2=2D251A&bgc3=0E0C09)
+![MOST](https://github-readme-stats.vercel.app/api/top-langs/?username=TETO-IS-KAWAI&layout=compact)
+
+## CONTACT
+**GitHub @TETO-IS-KAWAI**
+
+**Discord @k4wait3to**
+
+**Google k4wait3to@gmail.com**
