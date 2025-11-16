@@ -5,6 +5,8 @@
 
 **Major** | *Physics* / *Informatics* / *Earth Science*
 
+**Work** | *Composition* / *Artwork* / *Editing* / *Programming*
+
 ## STATS
 ![SOLVED](https://boj.profilecard.kr/info?username=joon_gyu&bgc1=0E0C09&bgc2=2D251A&bgc3=0E0C09)
 ![MOST](https://github-readme-stats.vercel.app/api/top-langs/?username=TETO-IS-KAWAI&layout=compact)
@@ -14,4 +16,6 @@
 
 **Discord @k4wait3to**
 
-**Google k4wait3to@gmail.com**
+**Google Personal (Dev / Arts / Composition) k4wait3to@gmail.com**
+
+**Google School (SASA / Class) eventhorizon@sasa.hs.kr**
