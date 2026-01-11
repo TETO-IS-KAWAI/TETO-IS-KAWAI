@@ -1,4 +1,5 @@
 # TETO-IS-KAWAI MAIN
+(현재 페이지 / 레포 정리 중에 있습니다)
 
 ## WELCOME
 **School** | **S**ejong **A**cademy of **S**cience and **A**rts
@@ -12,6 +13,6 @@
 
 **Discord @k4wait3to**
 
-**Google Personal (Dev / Arts / Composition) k4wait3to@gmail.com**
+**Personal (Dev / Arts / Composition) k4wait3to@gmail.com**
 
-**Google School (SASA / Class) eventhorizon@sasa.hs.kr**
+**School (SASA / Class) eventhorizon@sasa.hs.kr**
