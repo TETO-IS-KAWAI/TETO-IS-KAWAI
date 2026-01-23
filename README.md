@@ -14,5 +14,3 @@
 **Discord @k4wait3to**
 
 **Personal (Dev / Arts / Composition) k4wait3to@gmail.com**
-
-**School (SASA / Class) eventhorizon@sasa.hs.kr**
