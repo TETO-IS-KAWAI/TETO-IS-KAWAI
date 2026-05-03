@@ -12,5 +12,3 @@
 **GitHub @TETO-IS-KAWAI**
 
 **Discord @mrne41**
-
-**Personal (Dev / Arts / Composition) k4wait3to@gmail.com**
