@@ -6,7 +6,7 @@
 
 **Major** | *Physics* / *Informatics* / *Earth Science*
 
-**Work** | *Composition* / *Artwork* / *Editing* / *Programming*
+**Work** | *Programming*
 
 ## CONTACT
 **GitHub @TETO-IS-KAWAI**
