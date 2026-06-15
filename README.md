@@ -1,14 +1,6 @@
 # TETO-IS-KAWAI MAIN
-(현재 페이지 / 레포 정리 중에 있습니다)
+(현재 페이지 / 레포 정리 중)
 
-## WELCOME
-**School** | **S**ejong **A**cademy of **S**cience and **A**rts
+# CONTACT
 
-**Major** | *Physics* / *Informatics* / *Earth Science*
-
-**Work** | *Programming*
-
-## CONTACT
-**GitHub @TETO-IS-KAWAI**
-
-**Discord @mrne41**
+**Discord** @mrne41
